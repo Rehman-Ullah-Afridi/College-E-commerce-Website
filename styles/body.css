@@ -1,0 +1,25 @@
+/* First Section of Body. */
+
+.first-section {
+    background-color: rgb(255, 152, 0);
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 70px;
+}
+.first-section h1 {
+    color:white;
+    font-size: 35px;
+    margin-bottom: 14px;
+}
+.first-section p {
+    color:white;
+    margin-bottom: 12px;
+}
+.first-section button {
+    background-color: black;
+    color: white;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    padding: 11px 25px 11px 25px;
+}
