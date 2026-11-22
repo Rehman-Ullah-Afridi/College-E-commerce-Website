@@ -11,6 +11,7 @@ header h1{
 header div {
     color: white;
     display: flex;
-    width:290px;
+    width:275px;
     justify-content: space-between;
+    padding-right: 10px;
 }
